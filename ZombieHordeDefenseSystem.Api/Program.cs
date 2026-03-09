@@ -33,7 +33,7 @@ builder.Services.AddSwaggerGen(options =>
     {
         Version = "v1",
         Title = "Zombie Horde Defense System API",
-        Description = "API para calcular la estrategia de defensa óptima contra una horda de zombies.",
+        Description = "API para calcular la estrategia de defensa Ã³ptima contra una horda de zombies.",
     });
 
     options.AddSecurityDefinition("ApiKey", new OpenApiSecurityScheme
@@ -61,14 +61,13 @@ builder.Services.AddSwaggerGen(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Zombie Defense API");
     });
-}
+
 
 app.UseRouting();
 app.UseHttpsRedirection();
