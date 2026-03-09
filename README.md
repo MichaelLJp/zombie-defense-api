@@ -17,6 +17,7 @@ El proyecto está construido siguiendo los principios de la **Arquitectura Hexag
 
 ## 🗂️ Estructura del Proyecto
 
+```text
 📁 ZombieHordeDefenseSystem.sln
 ├── ZombieHordeDefenseSystem.Api/             # Capa de Presentación (REST API)
 │   ├── Controllers/                          # Controladores (ej. DefenseZombieController)
