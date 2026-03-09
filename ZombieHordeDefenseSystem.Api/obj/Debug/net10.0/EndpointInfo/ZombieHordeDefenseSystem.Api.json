@@ -1,0 +1,84 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Zombie Horde Defense System API",
+    "description": "API para calcular la estrategia de defensa óptima contra una horda de zombies.",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/DefenseZombie/optimal-strategy": {
+      "post": {
+        "tags": [
+          "DefenseZombie"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DefenseStrategyRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DefenseStrategyRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DefenseStrategyRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/DefenseZombie/history": {
+      "get": {
+        "tags": [
+          "DefenseZombie"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DefenseStrategyRequestDto": {
+        "type": "object",
+        "properties": {
+          "bullets": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "secondsAvailable": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "ApiKey": {
+        "type": "apiKey",
+        "description": "Ingresa el API KEY en el campo",
+        "name": "X-API-KEY",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "ApiKey": [ ]
+    }
+  ]
+}

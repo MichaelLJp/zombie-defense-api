@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ZombieHordeDefenseSystem.Api/ZombieHordeDefenseSystem.Api.csproj" />
+  <Project Path="ZombieHordeDefenseSystem.Application/ZombieHordeDefenseSystem.Application.csproj" />
+  <Project Path="ZombieHordeDefenseSystem.Domain/ZombieHordeDefenseSystem.Domain.csproj" />
+  <Project Path="ZombieHordeDefenseSystem.Infraestructure/ZombieHordeDefenseSystem.Infraestructure.csproj" />
+</Solution>

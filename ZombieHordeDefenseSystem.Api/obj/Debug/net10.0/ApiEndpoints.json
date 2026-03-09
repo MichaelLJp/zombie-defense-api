@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ZombieHordeDefenseSystem.Api.Controllers.DefenseZombieController",
+    "Method": "GetSimulationHistory",
+    "RelativePath": "api/DefenseZombie/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZombieHordeDefenseSystem.Api.Controllers.DefenseZombieController",
+    "Method": "GetOptimalDefenseStrategy",
+    "RelativePath": "api/DefenseZombie/optimal-strategy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ZombieHordeDefenseSystem.Application.Dtos.DefenseStrategyRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

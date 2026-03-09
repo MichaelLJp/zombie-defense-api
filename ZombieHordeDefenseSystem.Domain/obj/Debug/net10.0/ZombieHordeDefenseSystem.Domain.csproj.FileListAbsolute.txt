@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\bin\Debug\net10.0\ZombieHordeDefenseSystem.Domain.deps.json
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\bin\Debug\net10.0\ZombieHordeDefenseSystem.Domain.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\bin\Debug\net10.0\ZombieHordeDefenseSystem.Domain.pdb
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ZombieHordeDefenseSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ZombieHordeDefenseSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ZombieHordeDefenseSystem.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ZombieHordeDefenseSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ZombieHordeDefenseSystem.Domain.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\refint\ZombieHordeDefenseSystem.Domain.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ZombieHordeDefenseSystem.Domain.pdb
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Domain\obj\Debug\net10.0\ref\ZombieHordeDefenseSystem.Domain.dll

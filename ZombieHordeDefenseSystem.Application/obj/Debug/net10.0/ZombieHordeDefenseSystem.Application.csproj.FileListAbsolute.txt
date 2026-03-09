@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\bin\Debug\net10.0\ZombieHordeDefenseSystem.Application.deps.json
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\bin\Debug\net10.0\ZombieHordeDefenseSystem.Application.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\bin\Debug\net10.0\ZombieHordeDefenseSystem.Application.pdb
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\bin\Debug\net10.0\ZombieHordeDefenseSystem.Domain.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\bin\Debug\net10.0\ZombieHordeDefenseSystem.Domain.pdb
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHo.DE6B7DF1.Up2Date
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\refint\ZombieHordeDefenseSystem.Application.dll
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ZombieHordeDefenseSystem.Application.pdb
+C:\Users\Lenovo\Documents\ZombieHordeDefenseSystem\ZombieHordeDefenseSystem.Application\obj\Debug\net10.0\ref\ZombieHordeDefenseSystem.Application.dll
